@@ -10,6 +10,16 @@ The assignment contains two parts:
 1. Django Signals
 2. Custom Classes in Python
 
+## Design Approach
+
+Instead of answering the Django signal questions theoretically, small experiments were created to observe actual behavior and verify assumptions through execution results.
+
+The implementation focuses on evidence-based validation of:
+
+- synchronous execution
+- thread behavior
+- transaction scope
+
 ---
 
 # Part 1: Django Signals
