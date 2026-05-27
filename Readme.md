@@ -3,6 +3,7 @@
 ## Overview
 
 This repository contains solutions for the Django Trainee assignment.
+This repository contains experimental implementations and observations used to validate Django signal behavior and a custom iterable Rectangle class implementation.
 
 The assignment contains two parts:
 
